@@ -1,0 +1,20 @@
+El juego de la tuza, es parte esencial dentro del juego ya qué te permite ganar  dinero, o hasta incluso poder jugar otros juegos.
+
+Dentro de mi escenario principal utilizamos las herramientas para dar el color, utilizamos botos, etiquetas para poder llevar a cabo el juego.
+
+-Utilizamos las herramientas para poder dar el color del fondo qué es negro.
+-Botón para poner los recuadros del juego.
+-Agregamos un etiqueta, para poner la foto de la tuza.
+-botón "<"">" nos sirve para dar las direcciones de izquierda y derecha para poder moverse.
+- etiqueta, para poder colocar una medalla qué gano el juego
+
+El juego de la tuza, es parte esencial dentro del juego ya qué te permite ganar  dinero, o hasta incluso poder jugar otros juegos.
+Dentro del escenario, utilizamos botones, las herramientas para el color, agregamos los diseños para dar forma del juego.
+-Las herramientas nos permiten y tienen su
+ funcionamiento ya qué en el fondo le puse negro.
+- el botón le agregué un resorte para que la tuza brinque.
+- en el botón puse una líneas rectas con dinero ya qué la tuza brinque y va por ellos.
+-botón "<"">" nos sirve para dar las direcciones de izquierda y derecha para poder moverse.
+- Etiqueta, agregué en la izquierda superior una etiqueta de imagen ya qué le puedes poner texto.
+- botón, puse 3 estrellas para cuando finalize el juego y significa que gano.
+dentro de los juegos fueron diseñados dentro de la aplicación canva, ya que me permitió y facilito fácilmente los diseños y las herramientas que hay dentro de ellas
